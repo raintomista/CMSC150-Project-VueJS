@@ -46,11 +46,6 @@
     width: 230px;
     max-width: calc(100vw - 125px);
   }
-
-  .md-layout {
-    min-height: calc(100vh - 112px);
-    max-width: 100%;
-  }
 </style>
 
 
