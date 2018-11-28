@@ -1,4 +1,4 @@
-# cmsc150-project
+# CMSC150-Project-VueJS
 
 ## Project setup
 ```
@@ -27,3 +27,5 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+
