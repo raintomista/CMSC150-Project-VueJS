@@ -21,7 +21,7 @@
             </md-tab>
             <md-tab 
               id="tab-qsi" 
-              md-label="Quadratic Spline"
+              md-label="Quadratic Spline Interpolation"
               v-on:click="$router.push('/quadratic-spline')">
             </md-tab>
           </md-tabs>
