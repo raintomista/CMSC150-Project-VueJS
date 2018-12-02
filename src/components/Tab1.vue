@@ -50,6 +50,7 @@ export default {
     SidebarPR,
     InputData,
     Augcoeff,
+    Unknowns,
     Item
   },
   data() {

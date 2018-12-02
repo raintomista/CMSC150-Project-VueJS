@@ -16,7 +16,7 @@
     name: 'Item',
     props: {
       label: String,
-      value: String
+      value: Array
     }
   }
 </script>
