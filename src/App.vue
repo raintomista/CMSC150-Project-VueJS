@@ -24,6 +24,11 @@
               md-label="Quadratic Spline Interpolation"
               v-on:click="$router.push('/quadratic-spline')">
             </md-tab>
+            <md-tab 
+              id="tab-min" 
+              md-label="Simplex (Minimization)"
+              v-on:click="$router.push('/minimization')">
+            </md-tab>
           </md-tabs>
         </div>
       </md-app-toolbar>

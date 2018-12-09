@@ -7,7 +7,7 @@ import 'vue-material/dist/theme/default.css'
 
 import Tab1 from './components/Tab1.vue'
 import Tab2 from './components/Tab2.vue'
-
+import Tab3 from './components/Tab3.vue'
 
 Vue.config.productionTip = false
 Vue.use(VueMaterial)
@@ -18,6 +18,7 @@ const router = new VueRouter({
     { path: '/' },
     { path: '/polynomial-regression', component: Tab1 },
     { path: '/quadratic-spline', component: Tab2 },
+    { path: '/minimization', component: Tab3 },
   ],
 })
 
